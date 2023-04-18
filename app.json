@@ -1,17 +1,17 @@
 {
-      "name": "SpamX - RiZoeL",
+      "name": "LIFEXSPAM - LIFESTYLE",
       "description": "A Pyrogram Based Spam Bots With Many Cmds Fast And Stable",
-      "logo": "https://telegra.ph/file/ec832fc9107fd21edfee3.jpg",
+      "logo": "https://telegra.ph//file/97cdbc30faf691eccf169.jpg",
       "keywords": [
         "telegram",
         "PYROGRAM",
         "telegram-bot",
         "SpamX",
-        "RiZoeLX"
+        "LIFEX"
       ],   
-  "repository": "https://github.com/RiZoeLX/SpamX",
-  "website": "https://github.com/RiZoeLX",
-  "success_url": "https://t.me/RiZoeLX",
+  "repository": "https://github.com/LIFESTYLE/LIFEXSPAM",
+  "website": "https://github.com/LIFEXSPAM",
+  "success_url": "https://t.me/FAST_CRACKER",
   "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
